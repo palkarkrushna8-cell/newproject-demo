@@ -1,2 +1,3 @@
 # newproject-demo
-this is my frist repositary
+this is my frist Repositary
+Author-krushna palkar
